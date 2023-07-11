@@ -70,7 +70,7 @@ sections:
         - title: Data Scientist
           company: AmunData, Data-Driven Research, and Advisory
           company_url: ''
-          company_logo: 
+          company_logo: https://pbs.twimg.com/profile_images/1513629911440834565/BnH8vz9h_400x400.jpg
           location: Khartoum, Sudan
           date_start: '2022-01-01'
           date_end: '2022-09-01'
