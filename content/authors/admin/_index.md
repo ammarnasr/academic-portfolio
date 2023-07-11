@@ -7,7 +7,7 @@ first_name: Ammar
 last_name: Khairi
 
 # Status emoji
-status: 📝
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
