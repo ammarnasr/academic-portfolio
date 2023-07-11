@@ -69,14 +69,12 @@ sections:
       items:
         - title: Data Scientist
           company: AmunData, Data-Driven Research, and Advisory
-          company_url: ''
+          company_url: 'https://twitter.com/AmunData_'
           company_logo: amundata
           location: Khartoum, Sudan
           date_start: '2022-01-01'
           date_end: '2022-09-01'
           description: |2-
-            Responsibilities include:
-            
             * Designing and implementing services primarily focused on precision agriculture using remote sensing data.
             * Modelling and analyzing time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
             * Deploying and maintaining a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
