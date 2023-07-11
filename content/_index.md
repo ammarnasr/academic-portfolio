@@ -69,8 +69,8 @@ sections:
       items:
         - title: Data Scientist
           company: AmunData, Data-Driven Research, and Advisory
-          company_url: 'https://twitter.com/AmunData_'
-          company_logo: 'https://pbs.twimg.com/profile_images/1513629911440834565/BnH8vz9h_400x400.jpg'
+          company_url: ''
+          company_logo: 
           location: Khartoum, Sudan
           date_start: '2022-01-01'
           date_end: '2022-09-01'
@@ -80,6 +80,19 @@ sections:
             * Designing and implementing services primarily focused on precision agriculture using remote sensing data.
             * Modelling and analyzing time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
             * Deploying and maintaining a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
