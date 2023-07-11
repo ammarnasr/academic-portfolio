@@ -38,20 +38,48 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+
+      ### Experience in plain text
+#       AmunData, Data-Driven Research, and Advisory Khartoum, Sudan
+
+# Data Scientist, January 2022–SSeptember 2022
+
+# Designed and implemented services primarily focused on precision agriculture using remote sensing data.
+# Developed a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
+# Used Sentinel-2 satellite imagery to estimate yield of seven cash crops in different states of Sudan. Total area covered was calculated through image classification, verified and crossed checked through primary data (surveys). The Final report was used by some of the major companies and The Food and Agriculture Organization of the United Nations in Sudan FAO.
+# Created a tool to estimate a field’s expected production and fertilizer through satellite imagery and on-site data.
+
+# KooshLyncs For Software Solutions, Sudan, Khartoum
+
+# Backend Developer, July 2021–DDec 2021
+
+# Worked in the fin-tech sector to develop an online marketplace for Sudan.
+# Designed the company’s back-end microservices for data storage, authentication and third-party integration. The services were implemented in GoLang and hosted on AWS Elastic Beans to ensure performance and scalability
+
+# Code Software Sudan, Khartoum
+
+# Full Stack Developer, December 2020–June 2021
+
+# Worked as Full stack developer to provide specialized solutions in web development, systems integrations, process management systems, mobile development
+# Migrated Sudatel’s Direct Carrier Billing -a type of online payment that allows consumers to charge the cost of a purchase to their phone bill,- from Java to GoLang. This enabled more flexibility in implementing concurrent modules of the system, which resulted in a 10% increase in revenue for Sudatel’s Anghami subscription service.
+# Improved the company's internal Code Management System (CMS) web application. By using a micro-service structure (rather than the monolithic), the CMS became easier to reuse in many sites and blogs. I also add a central dashboard to monitor all of the companies applications statuses and send alerts in case of failures. The CMS is implemented in GoLang and NodeJs
+
+
+      items:
+        - title: Data Scientist
+          company: AmunData, Data-Driven Research, and Advisory
+          company_url: 'https://twitter.com/AmunData_'
+          company_logo: 'https://pbs.twimg.com/profile_images/1513629911440834565/BnH8vz9h_400x400.jpg'
+          location: Khartoum, Sudan
+          date_start: '2022-01-01'
+          date_end: '2022-09-01'
+          description: |2-
+            Responsibilities include:
+            
+            * Designing and implementing services primarily focused on precision agriculture using remote sensing data.
+            * Modelling and analyzing time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
+            * Deploying and maintaining a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
