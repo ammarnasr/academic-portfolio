@@ -11,7 +11,7 @@ tags:
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://huggingface.co/spaces/ammarnasr/Code-Generation-with-Language-Specific-LoRa-Models
+external_link: ''
 
 image:
   caption: Screen Shot of the Code Generation with Language-Specific LoRa Models HuggingFace Space
