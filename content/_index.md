@@ -233,26 +233,6 @@ sections:
     id: contact
     content:
       title: Contact
-
-  
-# \begin{center}
-#     \textbf{\Huge \scshape Ammar Khairi} \\ \vspace{3pt}
-#     \small
-#     \faMobile \hspace{.5pt} \href{tel:44737506538}{+44 737 750 6528}
-#     $|$
-#     \faAt \hspace{.5pt} \href{mailto:ammarnasraza@gmail.com}{ammarnasraza@gmail.com}
-#     $|$
-#     \faLinkedinSquare \hspace{.5pt} \href{https://www.linkedin.com/in/ammarkhairi97}{LinkedIn}
-#     $|$
-#     \faGithub \hspace{.5pt} \href{https://github.com/ammarnasr}{GitHub}
-#     $|$
-#     \faGlobe \hspace{.5pt} \href{https://ammarkhairi.netlify.app/}{Portfolio}
-#     $|$
-#     \faMapMarker \hspace{.5pt} \href{https://goo.gl/maps/kMKL6x6Yb6camj2d8}{Edinburgh, UK}
-# \end{center}
-
-
-
       subtitle:
       text: |-
         Send me a message and I'll get back to you as soon as possible.
