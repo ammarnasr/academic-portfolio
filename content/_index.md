@@ -94,37 +94,37 @@ sections:
               * Improved the company's internal Code Management System (CMS) web application. By using a micro-service structure (rather than the monolithic), the CMS became easier to reuse in many sites and blogs. I also add a central dashboard to monitor all of the companies applications statuses and send alerts in case of failures. The CMS is implemented in GoLang and NodeJs
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://github.com/ammarnasr/pdfs/blob/main/ICT%202019%20Certificate_Final.pdf
-          date_end: ''
-          date_start: '2019-09-30'
-          description: ''
-          organization: Ericsson
-          organization_url: https://www.ericsson.com/en
-          title: ICT Professional Foundation Program
-          url: ''
-        - certificate_url: https://www.coursera.org/account/accomplishments/verify/EMWHW5H8DXGS
-          date_end: ''
-          date_start: '2018-11-20'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
+  #     subtitle:
+  #     # Date format: https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: https://github.com/ammarnasr/pdfs/blob/main/ICT%202019%20Certificate_Final.pdf
+  #         date_end: ''
+  #         date_start: '2019-09-30'
+  #         description: ''
+  #         organization: Ericsson
+  #         organization_url: https://www.ericsson.com/en
+  #         title: ICT Professional Foundation Program
+  #         url: ''
+  #       - certificate_url: https://www.coursera.org/account/accomplishments/verify/EMWHW5H8DXGS
+  #         date_end: ''
+  #         date_start: '2018-11-20'
+  #         description: ''
+  #         organization: Coursera
+  #         organization_url: https://www.coursera.org
+  #         title: Neural Networks and Deep Learning
+  #         url: ''
+  #   design:
+  #     columns: '2'
   # - block: collection
   #   id: posts
   #   content:
