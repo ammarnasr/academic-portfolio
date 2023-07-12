@@ -1,15 +1,20 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Code Large Language Models Fine-tuning
+summary: Fine-tuning large language models for code generation in different programming languages using PyTorch and HuggingFace Transformers.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Natural Language Processing
+  - Code Generation
+  - PyTorch
+  - HuggingFace
+  - LLM
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://huggingface.co/spaces/ammarnasr/Code-Generation-with-Language-Specific-LoRa-Models
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Screen Shot of the Code Generation with Language-Specific LoRa Models HuggingFace Space
   focal_point: Smart
 
 links:
@@ -17,7 +22,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/ammarnasr/LLM-for-code-intelligence'
 url_pdf: ''
 url_slides: ''
 url_video: ''
