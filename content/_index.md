@@ -171,6 +171,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: Geospatial Analysis
+          tag: Geospatial Analysis
         - name: Other
           tag: Demo
     design:

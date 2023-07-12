@@ -8,6 +8,7 @@ tags:
   - Machine Learning
   - Computer Vision
   - Crop Classification
+  - Deep Learning
 
 
 date: '2022-05-17T00:00:00Z'
