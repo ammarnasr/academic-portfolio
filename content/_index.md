@@ -102,7 +102,6 @@ sections:
         description: |2-
           * Worked as TA with Dr. Amir Vaxman for the Computer Graphics Course which introduces classic and state-of-the-art methodology in computer graphics.
           # * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
-
         - title: Data Scientist
           company: AmunData, Data-Driven Research, and Advisory
           company_url: 'https://twitter.com/AmunData_'
@@ -146,12 +145,6 @@ sections:
             * Worked as Full stack developer to provide specialized solutions in web development, systems integrations, process management systems, mobile development
             * Migrated Sudatel’s Direct Carrier Billing -a type of online payment that allows consumers to charge the cost of a purchase to their phone bill,- from Java to GoLang. This enabled more flexibility in implementing concurrent modules of the system, which resulted in a 10% increase in revenue for Sudatel’s Anghami subscription service.
             * Improved the company's internal Code Management System (CMS) web application. By using a micro-service structure (rather than the monolithic), the CMS became easier to reuse in many sites and blogs. I also add a central dashboard to monitor all of the companies applications statuses and send alerts in case of failures. The CMS is implemented in GoLang and NodeJs
-
-
-
-
-
-
     design:
       columns: '2'
   - block: accomplishments
