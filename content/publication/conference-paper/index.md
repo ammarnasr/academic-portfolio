@@ -1,20 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'SemGAN: Text to Image Synthesis from Text Semantics using Attentional Generative Adversarial Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Ammar Khairi
+  - Ruba Mutasim
+  - Hiba Imam
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-02-26T00:00:00Z'
+doi: '10.1109/ICCCEEE49695.2021.9429602'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -23,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication:  2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE)
+publication_short: In *ICCCEEE2020*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Text to Image Synthesis is the procedure of automatically creating a realistic image from a particular text description. There are numerous innovative and practical applications for text to image synthesis, including image processing and compute-raided design. Using Generative Adversarial Networks (GANs) alongside the Attention mechanism has led to huge improvements lately. The fine-grained attention mechanism, although powerful, does not preserve the general description information well in the generator since it only attends to the text description at word-level (fine-grained). We propose incorporating the whole sentence semantics when generating images from captions to enhance the attention mechanism outputs. According to experiments, on our model produces more robust images with a better semantic layout. We use the Caltech birds dataset to run experiments on both models and validate the effectiveness of our proposal. Our model boosts the original AttnGAN Inception score by +4.13% and the Fréchet Inception Distance score by +13.93%. Moreover, an empirical analysis is carried out on the objective and subjective measures to (i) address and overcome the limitations of these metrics (ii) verify that performance improvements are due to fundamental algorithmic changes rather than initialization and fine-tuning as with GANs models.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  We use the Caltech birds dataset to run experiments on both models and validate the effectiveness of our proposal. Our model boosts the original AttnGAN Inception score by +4.13% and the Fréchet Inception Distance score by +13.93%.
 
 tags: []
 
@@ -40,23 +42,23 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Semantic Scholar
+  url: https://api.semanticscholar.org/CorpusID:234787656?utm_source=wikipedia
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://github.com/ammarnasr/pdfs/blob/main/SemGAN_Text_to_Image_Synthesis_from_Text_Semantics_using_Attentional_Generative_Adversarial_Networks.pdf'
+url_code: 'https://github.com/ammarnasr/SEM-GAN-WebAPP'
+url_dataset: 'https://www.vision.caltech.edu/datasets/cub_200_2011/'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image Taken from the paper'
   focal_point: ''
   preview_only: false
 
