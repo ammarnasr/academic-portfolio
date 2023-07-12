@@ -43,14 +43,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Semantic Scholar
-  url: https://api.semanticscholar.org/CorpusID:234787656?utm_source=wikipedia
+- name: Demo
+  url: https://huggingface.co/spaces/ammarnasr/Sem-GAN-Bird-Image-Generator
 
 url_pdf: 'https://github.com/ammarnasr/pdfs/blob/main/SemGAN_Text_to_Image_Synthesis_from_Text_Semantics_using_Attentional_Generative_Adversarial_Networks.pdf'
 url_code: 'https://github.com/ammarnasr/SEM-GAN-WebAPP'
 url_dataset: 'https://www.vision.caltech.edu/datasets/cub_200_2011/'
 url_poster: ''
-url_project: 'https://huggingface.co/spaces/ammarnasr/Sem-GAN-Bird-Image-Generator'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
