@@ -173,8 +173,8 @@ sections:
           tag: Deep Learning
         - name: Geospatial Analysis
           tag: Geospatial Analysis
-        - name: Other
-          tag: Demo
+        - name: Software Development
+          tag: Software Development
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

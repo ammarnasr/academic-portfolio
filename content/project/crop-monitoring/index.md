@@ -6,6 +6,7 @@ tags:
   - Remote Sensing
   - Agriculture
   - Open-Source
+  - Software Development
 
 
 date: '2022-05-17T00:00:00Z'
