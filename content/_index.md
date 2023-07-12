@@ -99,10 +99,7 @@ sections:
         location: Edinburgh, UK
         date_start: '2023-01-01'
         date_end: ''
-        description: |2-
-          * Worked as TA with Dr. Amir Vaxman for the Computer Graphics Course which introduces classic and state-of-the-art methodology in computer graphics.
-          # * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
-        - title: Data Scientist
+        description: 'tttttt'
           company: AmunData, Data-Driven Research, and Advisory
           company_url: 'https://twitter.com/AmunData_'
           company_logo: amundata
