@@ -101,7 +101,7 @@ sections:
         date_end: ''
         description: |2-
           * Worked as TA with Dr. Amir Vaxman for the Computer Graphics Course which introduces classic and state-of-the-art methodology in computer graphics.
-          * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
+          # * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
 
         - title: Data Scientist
           company: AmunData, Data-Driven Research, and Advisory
