@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Fine-tuning Large Language Models for Code Generation in Different Programming Languages
+summary: Using Paramter Efficient Fine-tuning (PEFT) to fine-tune large language models for code generation in different programming languages using PyTorch and HuggingFace Transformers.
 authors: []
 tags: []
 categories: []
@@ -19,12 +19,17 @@ slides:
 
 ---
 
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+## OVERVIEW
+- Very Large code LLMs (> 1B params) often have good performance in a variety of languages (Salesforce/codegen-2B-multi -> C, C++, Go, Java, JavaScript, and Python)
+- Small code LLMs (< 1B params) are usually trained to work on one programming language to have good performance (Salesforce/codegen-350M-mono -> Python)
+- Small Code LLMs can be extended to cover more languages by a variety of methods:
+  - Full Fine-tuning:
+    - Pros: Best performance in fine-tuned model
+    - Cons: High computational requirements, catastrophic forgetting
+  - LoRa Fine-tuning:
+    - Pros: Efficacy, Scalable, No catastrophic forgetting
+    - Cons: Lower performance than full fine-tuning
+  - Knowledge Distillation: tbd
 
 ---
 

@@ -20,10 +20,10 @@ image:
 links:
   - icon: huggingface
     icon_pack: fab
-    name: Follow
+    name: Demo
     url: https://huggingface.co/spaces/ammarnasr/Code-Generation-with-Language-Specific-LoRa-Models
 url_code: 'https://github.com/ammarnasr/LLM-for-code-intelligence'
-url_pdf: ''
+url_pdf: 'https://github.com/ammarnasr/LLM-for-code-intelligence/blob/main/Progress%20Tracking.pdf'
 url_slides: ''
 url_video: ''
 
@@ -32,7 +32,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: code-llm
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
