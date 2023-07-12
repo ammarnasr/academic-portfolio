@@ -18,10 +18,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: huggingface
-    icon_pack: fab
-    name: Demo
-    url: ''
+  # - icon: huggingface
+  #   icon_pack: fab
+  #   name: Demo
+  #   url: ''
 url_code: 'https://github.com/ammarnasr/Multi-Lingual-Image-Captioning'
 url_pdf: 'https://github.com/ammarnasr/pdfs/blob/main/MultiLingual_captioner.pdf'
 url_slides: ''
@@ -32,7 +32,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: code-llm
+slides: ""
 ---
 
 This project started as an assignment for a course in my MSc program, where we initially decided to benchmark different image-to-text (image captioning) systems in four different languages (English, Arabic, French, and Deutsch) as it was never done before. We used two types of encoders (CNN and CLIP) and two types of decoders (LSTM and GPT2 with Adapters), we trained multiple models using a combination of those types and benchmarked on Crossmodal-3600 (paper coming soon).
