@@ -43,7 +43,7 @@ summary:  Benefitting from the orthogonal properties of Kasami codes, and consid
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
