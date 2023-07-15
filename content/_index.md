@@ -64,9 +64,9 @@ sections:
           company: University College Dublin
           company_url: 'https://www.ucd.ie/'
           company_logo: ucd
-          location: Dublin, Ireland
-          date_start: '2022-03-01'
-          date_end: '2022-08-01'
+          location: Remote
+          date_start: '2021-03-01'
+          date_end: '2021-08-01'
           description: |2-
               * Worked with DR Mohamed Saadeldin -Assistant Professor in School of Computer Science, UCD- on a project about multi-label image classification.
               * Evaluated and compared performance of neural networks with conventional output layer against neural networks utilizing the Kasami Orthogonal Classification Layer (KOCL) in the task of multi-label image classification
