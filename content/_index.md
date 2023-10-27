@@ -39,59 +39,77 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Assistant
-          company: School of Informatics, The University of Edinburgh
-          company_url: 'https://www.ed.ac.uk/informatics'
-          company_logo: edinburgh
-          location: Edinburgh, UK
-          date_start: '2023-01-01'
+
+
+        - title: NLP Consultant
+          company : Clingendael - the Netherlands Institute of International Relations
+          company_url: 'https://www.clingendael.org/'
+          company_logo: clingendael
+          location: Remote
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
-              * Worked as TA with Dr. Amir Vaxman for the Computer Graphics Course which introduces classic and state-of-the-art methodology in computer graphics.
-              * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
-        - title: Data Scientist
-          company: AmunData, Data-Driven Research, and Advisory
-          company_url: 'https://twitter.com/AmunData_'
-          company_logo: amundata
-          location: Khartoum, Sudan
-          date_start: '2022-01-01'
-          date_end: '2022-09-01'
-          description: |2-
-              * Designing and implementing services primarily focused on precision agriculture using remote sensing data.
-              * Modelling and analyzing time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
-              * Deploying and maintaining a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
-        - title: Research Assistant
-          company: University College Dublin
-          company_url: 'https://www.ucd.ie/'
-          company_logo: ucd
-          location: Remote
-          date_start: '2021-03-01'
-          date_end: '2021-08-01'
-          description: |2-
-              * Worked with DR Mohamed Saadeldin -Assistant Professor in School of Computer Science, UCD- on a project about multi-label image classification.
-              * Evaluated and compared performance of neural networks with conventional output layer against neural networks utilizing the Kasami Orthogonal Classification Layer (KOCL) in the task of multi-label image classification
-              * Our work extended neural networks trained on single class data to provide classification output for multi-label data without further training. The results were presented in the NLDL2022 conference
-        - title: Backend Developer
-          company: KooshLyncs For Software Solutions
-          company_url: ''
-          company_logo: 
-          location: Khartoum, Sudan
-          date_start: '2021-07-01'
-          date_end: '2021-12-01'
-          description: |2-
-              * Worked in the fin-tech sector to develop an online marketplace for Sudan.
-              * Designed the company’s back-end microservices for data storage, authentication and third-party integration. The services were implemented in GoLang and hosted on AWS Elastic Beans to ensure performance and scalability
-        - title: Full Stack Developer
-          company: Code Software Sudan
-          company_url: 'https://code.sd/'
-          company_logo: code
-          location: Khartoum, Sudan
-          date_start: '2020-12-01'
-          date_end: '2021-06-01'
-          description: |2-
-              * Worked as Full stack developer to provide specialized solutions in web development, systems integrations, process management systems, mobile development
-              * Migrated Sudatel’s Direct Carrier Billing -a type of online payment that allows consumers to charge the cost of a purchase to their phone bill,- from Java to GoLang. This enabled more flexibility in implementing concurrent modules of the system, which resulted in a 10% increase in revenue for Sudatel’s Anghami subscription service.
-              * Improved the company's internal Code Management System (CMS) web application. By using a micro-service structure (rather than the monolithic), the CMS became easier to reuse in many sites and blogs. I also add a central dashboard to monitor all of the companies applications statuses and send alerts in case of failures. The CMS is implemented in GoLang and NodeJs
+              * Working as an NLP consultant on a research project analyzing polarization in Twitter discussions related to the conflict in Sudan.
+              * Manually annotated part of the Arabic dataset for stance detection, sentiment analysis and bot identification.
+              * Collaborated with senior researchers to design a pipeline for stance classification and bot detection using BERT models fine-tuned on our annotated dataset.
+              * Applying state-of-the-art NLP techniques like transformers and transfer learning to enhance ML models for low-resource Arabic text.
+
+
+
+
+        # - title: Teaching Assistant
+        #   company: School of Informatics, The University of Edinburgh
+        #   company_url: 'https://www.ed.ac.uk/informatics'
+        #   company_logo: edinburgh
+        #   location: Edinburgh, UK
+        #   date_start: '2023-01-01'
+        #   date_end: ''
+        #   description: |2-
+        #       * Worked as TA with Dr. Amir Vaxman for the Computer Graphics Course which introduces classic and state-of-the-art methodology in computer graphics.
+        #       * I was responsible for the coursework in which we designed three programming exercises -a skeleton code and an automatic self-checker- each covering a single major algorithm learned in class.
+        # - title: Data Scientist
+        #   company: AmunData, Data-Driven Research, and Advisory
+        #   company_url: 'https://twitter.com/AmunData_'
+        #   company_logo: amundata
+        #   location: Khartoum, Sudan
+        #   date_start: '2022-01-01'
+        #   date_end: '2022-09-01'
+        #   description: |2-
+        #       * Designing and implementing services primarily focused on precision agriculture using remote sensing data.
+        #       * Modelling and analyzing time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
+        #       * Deploying and maintaining a web application that analyzes time-series satellite data as well as field measurements to provide our clients with real-time crop monitoring
+        # - title: Research Assistant
+        #   company: University College Dublin
+        #   company_url: 'https://www.ucd.ie/'
+        #   company_logo: ucd
+        #   location: Remote
+        #   date_start: '2021-03-01'
+        #   date_end: '2021-08-01'
+        #   description: |2-
+        #       * Worked with DR Mohamed Saadeldin -Assistant Professor in School of Computer Science, UCD- on a project about multi-label image classification.
+        #       * Evaluated and compared performance of neural networks with conventional output layer against neural networks utilizing the Kasami Orthogonal Classification Layer (KOCL) in the task of multi-label image classification
+        #       * Our work extended neural networks trained on single class data to provide classification output for multi-label data without further training. The results were presented in the NLDL2022 conference
+        # - title: Backend Developer
+        #   company: KooshLyncs For Software Solutions
+        #   company_url: ''
+        #   company_logo: 
+        #   location: Khartoum, Sudan
+        #   date_start: '2021-07-01'
+        #   date_end: '2021-12-01'
+        #   description: |2-
+        #       * Worked in the fin-tech sector to develop an online marketplace for Sudan.
+        #       * Designed the company’s back-end microservices for data storage, authentication and third-party integration. The services were implemented in GoLang and hosted on AWS Elastic Beans to ensure performance and scalability
+        # - title: Full Stack Developer
+        #   company: Code Software Sudan
+        #   company_url: 'https://code.sd/'
+        #   company_logo: code
+        #   location: Khartoum, Sudan
+        #   date_start: '2020-12-01'
+        #   date_end: '2021-06-01'
+        #   description: |2-
+        #       * Worked as Full stack developer to provide specialized solutions in web development, systems integrations, process management systems, mobile development
+        #       * Migrated Sudatel’s Direct Carrier Billing -a type of online payment that allows consumers to charge the cost of a purchase to their phone bill,- from Java to GoLang. This enabled more flexibility in implementing concurrent modules of the system, which resulted in a 10% increase in revenue for Sudatel’s Anghami subscription service.
+        #       * Improved the company's internal Code Management System (CMS) web application. By using a micro-service structure (rather than the monolithic), the CMS became easier to reuse in many sites and blogs. I also add a central dashboard to monitor all of the companies applications statuses and send alerts in case of failures. The CMS is implemented in GoLang and NodeJs
     design:
       columns: '2'
   # - block: accomplishments
