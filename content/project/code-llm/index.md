@@ -1,6 +1,8 @@
 ---
 title: Scaling Down Multi-Lingual Code Language Models
-summary: Fine-tuning large language models for code generation in different programming languages using PyTorch and HuggingFace Transformers.
+
+summary: The democratisation of AI and access to code language models have become pivotal goals in the field of artificial intelligence. Large Language Models (LLMs) have shown exceptional capabilities in code intelligence tasks, but their accessibility remains a challenge due to computational costs and training complexities. This paper addresses these challenges by presenting a comprehensive approach to scaling down Code Intelligence LLMs. To enhance usability, we focus on training smaller code language models, which lowers the computation cost of inference and training. We extend these models to diverse programming languages, enabling code completion tasks across various domains Additionally, we explore the impact of different choices in fine-tuning LLMs, providing empirical evidence on training efficiency in terms of time, cost, and performance. In pursuit of these goals, we fine-tune a Python-based mono-lingual code LLM for Java, Rust, Ruby, and Swift. Utilising the LoRa Parameter Efficient Fine-Tuning technique, we share these models, their training datasets, and evaluation results openly. Extensive hyperparameter tuning, trade-off analysis, and error analysis shed light on the effects of training process choices. This work contributes to the democratisation of AI by making Code LLMs more accessible and usable for practitioners. By addressing computational barriers and providing insights into training dynamics, we bridge the gap between AI development and practical application, fostering an environment where code intelligence tools can be readily adopted.
+
 tags:
   - Deep Learning
   - Natural Language Processing
@@ -8,6 +10,9 @@ tags:
   - PyTorch
   - HuggingFace
   - LLM
+  - Large Language Models
+  - Democratisation of AI
+
 date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -23,7 +28,7 @@ links:
     name: Demo
     url: https://huggingface.co/spaces/ammarnasr/Code-Generation-with-Language-Specific-LoRa-Models
 url_code: 'https://github.com/ammarnasr/LLM-for-code-intelligence'
-url_pdf: 'https://github.com/ammarnasr/LLM-for-code-intelligence/blob/main/Progress%20Tracking.pdf'
+url_pdf: 'https://github.com/ammarnasr/LLM-for-code-intelligence/blob/main/ammar_dissertation.pdf'
 url_slides: ''
 url_video: ''
 
@@ -32,8 +37,10 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: code-llm
+slides: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The democratisation of AI and access to code language models have become pivotal goals in the field of artificial intelligence. Large Language Models (LLMs) have shown exceptional capabilities in code intelligence tasks, but their accessibility remains a challenge due to computational costs and training complexities. This paper addresses these challenges by presenting a comprehensive approach to scaling down Code Intelligence LLMs. To enhance usability, we focus on training smaller code language models, which lowers the computation cost of inference and training. We extend these models to diverse programming languages, enabling code completion tasks across various domains 
+
+Additionally, we explore the impact of different choices in fine-tuning LLMs, providing empirical evidence on training efficiency in terms of time, cost, and performance. In pursuit of these goals, we fine-tune a Python-based mono-lingual code LLM for Java, Rust, Ruby, and Swift. Utilising the LoRa Parameter Efficient Fine-Tuning technique, we share these models, their training datasets, and evaluation results openly. Extensive hyperparameter tuning, trade-off analysis, and error analysis shed light on the effects of training process choices. This work contributes to the democratisation of AI by making Code LLMs more accessible and usable for practitioners. By addressing computational barriers and providing insights into training dynamics, we bridge the gap between AI development and practical application, fostering an environment where code intelligence tools can be readily adopted.
 
