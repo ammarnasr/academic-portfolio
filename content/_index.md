@@ -40,7 +40,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-
         - title: NLP Consultant
           company : Clingendael - the Netherlands Institute of International Relations
           company_url: 'https://www.clingendael.org/'
@@ -82,19 +81,6 @@ sections:
               * Led migration of the company’s crop monitoring platform from a licensed solution to open source, which reduced running costs by 85% and enabled greater customization.
               * Managed interns, provided technical guidance, wrote project proposals, and maintained existing data solutions.
               * Contributed to various agricultural projects using remote sensing and ML.
-
-# CODE Software Sudan, Khartoum
-# Full Stack Developer Dec 2020 – Jun 2021
-# • Led migration of Sudatel’s Direct Carrier Billing platform from Java to GoLang, enabling more scalable concurrent
-# implementations. Migration resulted in 10% increase in revenue for Anghami subscription service.
-# • Optimized Anghami’s MySQL database serving over 700,000 users by redesigning schema to limit storage growth
-# and implementing indexing/optimization. Reduced database size growth from exponential to linear.
-# • Led migration of monolithic Code Management System (CMS) from Java to Golang microservices architecture,
-# enabling 100% reduction in downtime during upgrades and integration of new services.
-# • Implemented concurrent modules using Goroutines in Go which increased frequency of health checks for critical
-# services by 2x.
-# • Enhanced CMS frontend built with NodeJS by adding mentor assignment and email alerts for faster issue
-# resolution, significantly lowering client complaints.
 
         - title: Full Stack Developer
           Company: Code Software Sudan

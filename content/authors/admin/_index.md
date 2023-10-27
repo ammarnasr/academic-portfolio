@@ -76,5 +76,5 @@ email: 'ammarnasraza@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Ammar Khairi is a Machine Learning Engineer at the University of Edinburgh. His research interests include Multi-Modal Machine Learning, Generative Models, and Multilingual NLP. He is currently working on his MSc in Artificial Intelligence at the University of Edinburgh. He received his BSc in Software Engineering from the University of Khartoum.
+I'm an AI and machine learning engineer with a passion for driving real-world impact through responsible innovation. NLP and efficient large language models are my specialties – I love democratizing software creation through my work. I'm currently pursuing a MSc in AI, researching efficient fine-tuning of transformers for code generation. In my roles so far, I've applied ML to agriculture, NLP, and software engineering challenges. Outside of work, I'm fascinated by the societal implications of AI and actively explore issues like algorithmic bias and responsible ML. I love connecting with fellow researchers pushing the boundaries of AI for good. When I'm not coding, you can find me in the cinema or on the football pitch. I'm always eager to take on new challenges and collaborate with thoughtful teams to advance the equitable use of AI.
 {style="text-align: justify;"}
