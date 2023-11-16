@@ -27,8 +27,9 @@ bio: My research interests include Multi-Modal Machine Learning, Generative Mode
 # Interests to show in About widget
 interests:
   - Multi-Modal Machine Learning
-  - Generative Models
   - Multilingual NLP
+  - Responsible AI
+  - Geospatial Analysis
 
 # Education to show in About widget
 education:
@@ -36,7 +37,7 @@ education:
     - course: MSc in Artificial Intelligence
       institution: University of Edinburgh
       year: 2022
-    - course: BSc in Software Engineering
+    - course: BSc in Electrical and Electronic Engineering - Software Engineering
       institution: University of Khartoum
       year: 2014
 
