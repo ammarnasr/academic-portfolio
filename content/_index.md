@@ -48,10 +48,6 @@ sections:
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
-              * Working as an NLP consultant on a research project analyzing polarization in Twitter discussions related to the conflict in Sudan.
-              * Manually annotated part of the Arabic dataset for stance detection, sentiment analysis and bot identification.
-              * Collaborated with senior researchers to design a pipeline for stance classification and bot detection using BERT models fine-tuned on our annotated dataset.
-              * Applying state-of-the-art NLP techniques like transformers and transfer learning to enhance ML models for low-resource Arabic text.
 
         - title: Teaching Assistant
           company: School of Informatics, The University of Edinburgh
@@ -61,10 +57,6 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-06-01'
           description: |2-
-              * Served as a TA for the Computer Graphics course, instructing over 100 students.
-              * Designed and implemented 3 programming assignments on core graphics algorithms including raytracing, meshes and optimization.
-              * Hosted lab sessions to mentor students in C++, OpenGL and Belnder.
-              * Achieved an overall student satisfaction rating of 4.8/5.0 in course evaluations.
 
         - title: Data Scientist
           Company: AmunData, Data-Driven Research, and Advisory
@@ -74,13 +66,6 @@ sections:
           date_start: '2021-07-01'
           date_end: '2022-09-01'
           description: |2-
-              * Led the development of an open-source precision agriculture web application using Python, Streamlit, and Azure to provide crop monitoring and insights to clients. The application leveraged Sentinel-2 satellite imagery and vegetation indices to enable low-cost, customized field monitoring.
-              * Created automated workflows to process and store raw Sentinel-2 data by extracting vegetation insights like NDVI, LAI then storing raw processed imagery in Azure Blob storage.
-              * Designed and implemented a crop classification pipeline using Random Forest and Sentinel-2 multispectral bands. Achieved 89.22% accuracy in categorizing key crops in the state of El Gezira. Analysis provided area estimates for strategic planning on food security.
-              * Developed predictive yield models by combining satellite data with ground truth data from surveys. Models were used by clients like FGM International to monitor crop health and compare seed performance.
-              * Led migration of the company’s crop monitoring platform from a licensed solution to open source, which reduced running costs by 85% and enabled greater customization.
-              * Managed interns, provided technical guidance, wrote project proposals, and maintained existing data solutions.
-              * Contributed to various agricultural projects using remote sensing and ML.
 
         - title: Full Stack Developer
           Company: Code Software Sudan
@@ -90,11 +75,6 @@ sections:
           date_start: '2020-12-01'
           date_end: '2021-06-01'
           description: |2-
-              * Led migration of Sudatel’s Direct Carrier Billing platform from Java to GoLang, enabling more scalable concurrent implementations. Migration resulted in 10% increase in revenue for Anghami subscription service.
-              * Optimized Anghami’s MySQL database serving over 700,000 users by redesigning schema to limit storage growth and implementing indexing/optimization. Reduced database size growth from exponential to linear.
-              * Led migration of monolithic Code Management System (CMS) from Java to Golang microservices architecture, enabling 100% reduction in downtime during upgrades and integration of new services.
-              * Implemented concurrent modules using Goroutines in Go which increased frequency of health checks for critical services by 2x.
-              * Enhanced CMS frontend built with NodeJS by adding mentor assignment and email alerts for faster issue resolution, significantly lowering client complaints.
 
 
     design:
