@@ -15,14 +15,14 @@ date: '2022-05-17T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Screen Shot of the Crop Health Demo
+  caption: Fields Change Detection 2021
   focal_point: Smart
 
 links:
   - icon: huggingface
     icon_pack: fab
     name: Demo
-    url: 'https://huggingface.co/spaces/ammarnasr/crop-health'
+    url: 'https://satellite-crop-monitoring.streamlit.app/'
 url_code: 'https://github.com/ammarnasr/Crop-Health-Demo'
 url_pdf: ''
 url_slides: ''
