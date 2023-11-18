@@ -19,7 +19,7 @@ date: '2023-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Screen Shot of the Code Generation with Language-Specific LoRa Models HuggingFace Space
+  caption: Perplexity of fine-tuned models
   focal_point: Smart
 
 links:
