@@ -26,7 +26,7 @@ links:
   - icon: huggingface
     icon_pack: fab
     name: Demo
-    url: https://huggingface.co/spaces/ammarnasr/Code-Generation-with-Language-Specific-LoRa-Models
+    url: https://code-llms.streamlit.app/
 url_code: 'https://github.com/ammarnasr/LLM-for-code-intelligence'
 url_pdf: 'https://github.com/ammarnasr/LLM-for-code-intelligence/blob/main/ammar_dissertation.pdf'
 url_slides: ''
