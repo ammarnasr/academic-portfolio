@@ -5,7 +5,7 @@ subtitle: Balancing creativity and conscience in an age of thinking machines
 summary: This article explores the ethical dimensions of AI art generators through the lenses of utilitarianism and deontology. It outlines the benefits of democratizing art and augmenting creativity, while also examining risks like biases and misuse. The piece argues for developing an AI ethics framework with consensus principles to guide responsible development. Key themes include transparency, stakeholder collaboration, motivation awareness, and proactive use of AI safety tools. Ultimately it makes the case that with wisdom, we can cultivate both artistic innovation and moral values in our AI-powered future.
 
 # Link this post with a project
-projects: []
+projects: ['https://medium.com/@ammarnasraza/the-ethics-of-ai-art-a-philosophical-perspective-cfafe5468d43']
 
 # Date published
 date: '2023-11-16T00:00:00Z'
