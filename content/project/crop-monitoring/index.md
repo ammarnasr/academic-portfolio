@@ -24,8 +24,8 @@ links:
     name: Demo
     url: 'https://satellite-crop-monitoring.streamlit.app/'
 url_code: 'https://github.com/ammarnasr/Crop-Health-Demo'
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://dataq-sd.com/bridging-the-agricultural-data-gap-estimating-cultivated-lands-using-satellite-based-land-cover-classification/'
+url_slides: 'https://www.slideshare.net/slideshows/ai-remote-sensing-data-for-crop-monitoring/266499657'
 url_video: ''
 
 # Slides (optional).
